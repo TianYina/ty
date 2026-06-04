@@ -1,0 +1,7 @@
+node_modules/
+dist/
+release/
+debug.log
+tray-icon.ico
+tray-icon.png
+*.log
